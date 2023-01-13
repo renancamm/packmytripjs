@@ -1,0 +1,78 @@
+name,category,for_boy,for_girl,always_take_one,variable_by_day,qtd_very_cold,qtd_cold,qtd_cool,qtd_mild,qtd_warm,qtd_hot,qtd_very_hot,image,description
+Basic T-shirt,Clothes,TRUE,FALSE,FALSE,TRUE,,,,4.0,6.0,6.0,6.0,default/000.svg,Take several shirts that you can mix and match with the rest of your clothes during the trip.
+Basic T-shirt,Clothes,FALSE,TRUE,FALSE,TRUE,,,,,5.0,5.0,5.0,default/000.svg,Take several shirts that you can mix and match with the rest of your clothes during the trip.
+Shirt Jacket,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/002.svg,"Be sure to bring a thicker shirt, which can be worn alone or over a shirt. Flannel plaids are a great Chooseion to have on hand in mild seasons, such as spring and autumn."
+Shirt,Clothes,TRUE,FALSE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/002.svg,Bring at least one cool and tidy shirt for the summer.
+Sleeveless Dress,Clothes,FALSE,TRUE,FALSE,TRUE,,,,,2.0,2.0,2.0,default/202.svg,Choose a versatile model that you can use both day and night while traveling. Fabrics that do not wrinkle can be a good one to carry in your backpack.
+Long-sleeved Dress,Clothes,FALSE,TRUE,FALSE,FALSE,,,,1.0,,,,default/203.svg,"To be tidier in a cold destination, you can choose a dress made of thick fabric, such as wool or velvet."
+Long-sleeved Top,Clothes,TRUE,FALSE,FALSE,TRUE,5.0,5.0,5.0,2.0,,,,default/001.svg,"It is also useful in mild seasons, such as spring and autumn."
+Long-sleeved Top,Clothes,FALSE,TRUE,FALSE,TRUE,5.0,5.0,5.0,6.0,,,,default/001.svg,"It is also useful in mild seasons, such as spring and autumn."
+Fleece Shirt,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/003.svg,"This piece is almost like a blanket, as it will ensure that you stay warm enough."
+Fleece Shirt,Clothes,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/003.svg,"This piece is almost like a blanket, as it will ensure that you stay warm enough."
+Wool Sweater,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/004.svg,The wool sweater is practical and fulfills its role on cold days.
+Wool Sweater,Clothes,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/004.svg,The wool blouse is practical and fulfills its role on cold days.
+Jacket,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/005.svg,The windbreaker models are the most recommended for trips in cold places.
+Jacket,Clothes,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/005.svg,The windbreaker models are the most recommended for trips in cold places.
+Winter Trousers,Clothes,TRUE,FALSE,FALSE,TRUE,1.5,1.5,1.5,1.0,,,,default/100.svg,"Prefer thick fabrics that are warm and do not let the wind pass, such as twill, flannel, gabardine and suede."
+Winter Trousers,Clothes,FALSE,TRUE,FALSE,TRUE,1.5,1.5,1.5,1.0,,,,default/100.svg,"Prefer thick fabrics that are warm and do not let the wind pass, such as twill, flannel, gabardine and suede."
+Jeans,Clothes,TRUE,FALSE,FALSE,TRUE,1.0,1.0,1.0,1.0,,,,default/100.svg,Prefer one that is comfortable and without much detail. 
+Jeans,Clothes,FALSE,TRUE,FALSE,TRUE,1.0,1.0,1.0,1.0,,,,default/100.svg,Prefer one that is comfortable and without much detail. 
+Summer Trousers,Clothes,FALSE,TRUE,FALSE,TRUE,,,,,1.0,,,default/100.svg,"For hot days, prefer to take a pair of light fabric trousers, such as natural fibers, which are more breathable. "
+Short,Clothes,TRUE,FALSE,FALSE,TRUE,,,,,2.0,3.0,3.0,default/101.svg,"Be sure to bring shorts made of light, fresh and comfortable fabrics."
+Short,Clothes,FALSE,TRUE,FALSE,TRUE,,,,,2.0,3.0,3.0,default/101.svg,"Be sure to bring shorts made of light, fresh and comfortable fabrics."
+Thermal Trousers,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/102.svg,It can be used as a second skin under clothing or even as pajamas.
+Thermal Trousers,Clothes,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/102.svg,It can be used as a second skin under clothing or even as pajamas. 
+Winter Pajamas,Clothes,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/201.svg,"If you don't have a sleep set, you can take comfortable and warm trousers, like fleece or flannel, and combine them with a long-sleeved shirt."
+Winter Pajamas,Clothes,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/201.svg,"If you don't have a sleep set, you can take comfortable and warm trousers, like fleece or flannel, and combine them with a long-sleeved shirt."
+Summer Pajamas,Clothes,TRUE,FALSE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/200.svg,Soft shorts and a basic T-shirt fulfill the role of pajamas if you don't have a sleep set.
+Summer Pajamas,Clothes,FALSE,TRUE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/200.svg,Soft shorts and a basic T-shirt fulfill the role of pajamas if you don't have a sleep set.
+Panties,Clothes,FALSE,TRUE,FALSE,TRUE,7.5,7.5,7.5,7.5,7.5,7.5,7.5,default/301.svg,Take comfortable and soft panties.
+Underwear,Clothes,TRUE,FALSE,FALSE,TRUE,7.5,7.5,7.5,7.5,7.5,7.5,7.5,default/300.svg,Take comfortable and soft underwear.
+Bras,Clothes,FALSE,TRUE,FALSE,TRUE,1.5,1.5,1.5,1.5,1.5,1.5,1.5,default/302.svg,"Forget delicate bras and take those that are more comfortable and resistant, like sports tops."
+Socks,Clothes,TRUE,FALSE,FALSE,TRUE,5.0,5.0,5.0,5.0,5.0,5.0,5.0,default/404.svg,"Invest in running socks, which prevent friction and moisture."
+Socks,Clothes,FALSE,TRUE,FALSE,TRUE,5.0,5.0,5.0,5.0,5.0,5.0,5.0,default/404.svg,"Invest in running socks, which prevent friction and moisture."
+Casual Sneakers,Shoes and Accessories,TRUE,FALSE,TRUE,FALSE,,,,,,,,default/400.svg,Take a basic and comfortable sneaker to be that shoe for all occasions during the trip.
+Casual Sneakers,Shoes and Accessories,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/400.svg,Take a basic and comfortable sneaker to be that shoe for all occasions during the trip.
+Flip flop,Shoes and Accessories,TRUE,FALSE,TRUE,FALSE,,,,,,,,default/402.svg,"You can use it at beach, around the destination on warm days, but also at the hostel/hotel to circulate in the common areas or bathroom."
+Flip flop,Shoes and Accessories,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/402.svg,"You can use it at beach, around the destination on warm days, but also at the hostel/hotel to circulate in the common areas or bathroom."
+Flat Sandals,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/403.svg,"It has be comfortable, padded, firm on the foot and made of non-friction material for long walks. "
+Casual Boots,Shoes and Accessories,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/401.svg,"For very cold days or snowy destinations, a waterproof boot can prevent your feet from getting damp or unprotected."
+Casual Boots,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/401.svg,"For very cold days or snowy destinations, a waterproof boot can prevent your feet from getting damp or unprotected."
+Tights,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,,,,1.0,,,,default/103.svg,"Tights can be used with dresses, skirts and shorts or even under the trousers to help keep you warm."
+Gloves,Shoes and Accessories,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/500.svg,"Prefer waterproof gloves, such as made of suede or leather. Avoid knitting or crochet, as the wind easily passes through the wefts."
+Gloves,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,,,,,default/500.svg,"Prefer waterproof gloves, such as made of suede or leather. Avoid knitting or crochet, as the wind easily passes through the wefts."
+Beanie,Shoes and Accessories,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/501.svg,"It will protect your head from the low temperature, but it is also great for disguising bad hair day, especially in humid places."
+Beanie,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/501.svg,"It will protect your head from the low temperature, but it is also great for disguising bad hair day, especially in humid places."
+Scarf,Shoes and Accessories,TRUE,FALSE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/502.svg,"You can wrap the scarf around your neck to protect it from the cold, but also it can be used as a blanket or pillow when traveling by plane, bus and train."
+Scarf,Shoes and Accessories,FALSE,TRUE,FALSE,FALSE,1.0,1.0,1.0,1.0,,,,default/502.svg,"You can wrap the scarf around your neck to protect it from the cold, but also it can be used as a blanket or pillow when traveling by plane, bus and train. "
+Sunglass,Shoes and Accessories,TRUE,FALSE,TRUE,FALSE,,,,,,,,default/503.svg,"In addition to protect the eyes from UV rays, it is very useful in snow and sand destinations, such as mountains or deserts."
+Sunglass,Shoes and Accessories,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/503.svg,"In addition to protect the eyes from UV rays, it is very useful in snow and sand destinations, such as mountains or deserts."
+Small Purse,Shoes and Accessories,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/504.svg,"Take a small, compact and neutral purse that can be used day and night."
+Toothbrush,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/600.svg,"If you don't want to spend on travel size objects, take your toothbrush in an appropriate case to prevent it from getting dirty in the suitcase."
+Toothpaste,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/601.svg,Take a travel size toothpaste. And be sure to put it in a bag or waterproof bag.
+Dental Floss,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/602.svg,Nowadays there is even travel-sized dental floss. A great Chooseion!
+Mini Shampoo,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/604.svg,"You can buy the shampoo at the destination, but if you prefer to take yours, choose a travel size and do not forget to put it in a bag or a waterproof bag."
+Mini Conditioner,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/605.svg,"You can buy the conditioner at the destination, but if you prefer to take yours, choose a travel size and do not forget to put it in a bag or a waterproof bag."
+Bar Soap,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/603.svg,"Choose a bar soap, because it is more practical to carry and prevents leaks in the backpack."
+Microfiber Towel,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/606.svg,"Invest in microfiber towels, which dry very fast and are also thinner and more compact."
+Deodorant,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/607.svg,"Rollon is the safest Chooseion when boarding a plane. In addition, it is more compact and lasts longer."
+Hair Comb or Hairbrush,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/702.svg,Take a travel size version and put inside a necessaire so that there is no risk of pulling threads from the clothes.
+Razor Blade,Beauty and Hygiene,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/703.svg,Always pack it very well so there is no risk of pulling threads from the clothes.
+Hair dyer or hair straightener,Beauty and Hygiene,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/700.svg,"If you use devices to dry or style your hair, invest in one that is travel size."
+Scrunchies,Beauty and Hygiene,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/701.svg,"In addition to being useful for pinning hair, you can use it to close packages or even pin other objects."
+Makeup Remover Wipes,Beauty and Hygiene,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/704.svg,"The wipe Chooseion is the best for traveling, because there is no risk of leaking and is super practical."
+Sunscreen Lotion,Beauty and Hygiene,FALSE,FALSE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/605.svg,"If you are going to a tropical destination, it is worth investing in Chooseions that are also repellent."
+Makeup Necessaire,Beauty and Hygiene,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/705.svg,Take the basics and avoid liquid products.
+Band-aid,Health and Pharmacy,FALSE,TRUE,TRUE,FALSE,,,,,,,,default/801.svg,"In addition to being useful in case of minor injuries, it can be used to close packages."
+Pain and Fever,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,"If you make a very long trip, pay attention to the quantity."
+Muscle Aches,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,It can be useful after a long period of backpacking or after a day spent walking through the destination.
+Flu,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,Essential for trips to cold places.
+Indigestion,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,"On trips, we often try very different foods, with ingredients that don't go well."
+Nausea,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,"If you get sick easily on a car or bus trip for example, be sure to bring a sickness medicine."
+Antiallergic,Health and Pharmacy,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/800.svg,"A useful medicine for those who suffer from allergies, such as insect bites or respiratory."
+Diarrhea,Health and Pharmacy,FALSE,FALSE,FALSE,FALSE,,,,,1.0,1.0,1.0,default/800.svg,"If you are going to very hot destinations or with precarious resources, take medication for diarrhea and intestinal flora."
+Earphone,Utilities and Eletronics,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/900.svg,"Choose a sturdy model and if you are traveling with someone else, it is a good idea to bring a splitter."
+Powerbank,Utilities and Eletronics,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/901.svg,"To prevent your cell phone from running out of battery while traveling, always carry a portable battery with you."
+Phone Charger,Utilities and Eletronics,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/902.svg,Don't forget to take your cell phone charger!
+Universal Plug Adaptor,Utilities and Eletronics,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/903.svg,"If you are going to an international destination, bring a universal or specific adapter to the destination."
+Padlock,Utilities and Eletronics,FALSE,FALSE,TRUE,FALSE,,,,,,,,default/904.svg,Take at least two padlocks to be used in public lockers and backpack.

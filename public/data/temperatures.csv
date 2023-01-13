@@ -1,0 +1,8 @@
+name,start,end
+qtd_very_cold,-24.9,-10.0
+qtd_cold,-9.9,0.0
+qtd_cool,0.1,9.9
+qtd_mild,10.0,17.9
+qtd_warm,18.0,22.1
+qtd_hot,22.2,27.9
+qtd_very_hot,28.0,34.9
